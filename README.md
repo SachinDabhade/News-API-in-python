@@ -6,13 +6,14 @@ pip install pywin32
 ```
 ## Contribution
 The open source contribution is very important, especially for the freshers and to professional experts also.I promote the open source contribution since I start coding and programming. So, I invite you all to add new features in this News API and also simplify the code as you can.
-## What to Contribute ( only ideas - you can do else )
+## What to Contribute
 1. You can customize speed of speaking in this News API
 2. You can add the Default settings in it, because I don't add what is the default variables if the user don't enter anything in input.
 3. You can also work on exception handeling that I don't do in it.
 4. Add your own features in this program
 5. Simplify the program
 6. You can also add the GUI part of this program
+Note: You can also add your own features to show case your learning in this project
 ## Authors and acknowledgment
 Author Name: Sachin Vinayak Dabhade
 ## Licence
