@@ -17,4 +17,4 @@ Note: You can also add your own features to show case your learning in this proj
 ## Authors and acknowledgment
 Author Name: Sachin Vinayak Dabhade
 ## Licence
-[CNU](https://choosealicense.com/licenses/gpl-3.0/) - Open to All.
+[GNU](https://choosealicense.com/licenses/gpl-3.0/) - Open to All.
