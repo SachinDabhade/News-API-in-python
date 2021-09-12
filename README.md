@@ -1,0 +1,2 @@
+# News-API-in-python
+This program speak the news fetch form the rest API using python without class. This will also generate or track the records in Record.txt that who has started the News API on what timing. It also provide the category wise news and the restriction on number of news that will appear. The news first fetch in the form of JSON file then we clean and filter it to speak only the news title and the news description. We can also filter the specific country news and the category of news we want to here.
